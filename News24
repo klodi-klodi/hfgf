@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,News24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
