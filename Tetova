@@ -1,0 +1,4 @@
+
+#EXTM3U
+#EXTINF:-1,Tetova
+rtmp://ip.tvtetova.net:5119/live/tvtetova
